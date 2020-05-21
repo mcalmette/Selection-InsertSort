@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/Selection-InsertSort/collection.h
+vector
+-
+
+/home/student/Desktop/Selection-InsertSort/linked_list_collection.h
+vector
+-
+algorithm
+-
+collection.h
+/home/student/Desktop/Selection-InsertSort/collection.h
+
+/home/student/Desktop/Selection-InsertSort/sort.cpp
+stdlib.h
+-
+iostream
+-
+fstream
+-
+string
+-
+chrono
+-
+cassert
+-
+linked_list_collection.h
+/home/student/Desktop/Selection-InsertSort/linked_list_collection.h
+

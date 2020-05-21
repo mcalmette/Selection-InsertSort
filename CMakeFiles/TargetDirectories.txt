@@ -1,0 +1,3 @@
+/home/student/Desktop/Selection-InsertSort/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/Selection-InsertSort/CMakeFiles/sort.dir
+/home/student/Desktop/Selection-InsertSort/CMakeFiles/edit_cache.dir
