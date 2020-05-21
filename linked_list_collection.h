@@ -1,6 +1,5 @@
 //----------------------------------------------------------------------
 // Author: Michael Calmette
-//
 // File:   linked_list_collection.h
 //
 // INFO: Selection and Insertion Sort with a linked list
