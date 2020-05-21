@@ -1,8 +1,5 @@
 //----------------------------------------------------------------------
-// Author: S Bowers
-// Course: CPSC 223, Spring 2020
-// Assign: 6
-// File:   hw6_sort.cpp
+// File:   sort.cpp
 //
 // Simple program to test and time different in-place linked list
 // sorting algorithms. 
