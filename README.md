@@ -15,6 +15,7 @@ To use insertion sort:
 ```
 ./sort i rand-10k.txt
 ```
+Note: can switch out different random text files with files that sort a descending listed file i.e. desc-10k.txt 
 
 ## About this project
 An implementation of selection sort / insertion sort of a linked list with each node holding a key-value pair.  The project also uses these functions:
